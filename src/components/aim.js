@@ -10,12 +10,12 @@ export default function aim() {
             <div className="aim__stuffs">
                 <div className="aims">
                     <img className="fire__img" src={fireworks} alt="fire"/>
-                    <h3>We partner with the hottest book companies</h3>
+                    <h3>We Partner with the Hottest Book Companies</h3>
                     <p>We're talking Evernote,Mailchimp, Depositphotos just to name a few.</p>
                 </div>
                 <div className="aims">
                     <img className="fire__img" src={agree} alt="fire"/>
-                    <h3>We prun deals on their products</h3>
+                    <h3>We Run Deals on their Products</h3>
                     <p>But don't sleep on ot! Our deals sell out within a couples of weeks</p>
                 </div>
                 <div className="aims">
