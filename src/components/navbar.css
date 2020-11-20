@@ -1,0 +1,24 @@
+.nav__items{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* float: right; */
+  margin: 1rem;
+  width: 50%;
+  align-self: flex-end;
+}
+
+.nav__bar {
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav__items a:hover {
+  text-decoration: none;
+  color:white;
+}
+
+.nav__items a{
+  color: white;
+}

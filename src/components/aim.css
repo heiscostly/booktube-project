@@ -1,0 +1,20 @@
+.aim__stuffs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border: 5px solid #008000; */
+    border-radius: 10rem;
+    /* width: 50vh; */
+    background: #343047;
+}
+.fire__img{
+    width: 10%;
+}
+
+.aims{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50vh;
+}

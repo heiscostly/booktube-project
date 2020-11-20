@@ -1,0 +1,13 @@
+body{
+  padding: 0;
+  margin: 0;
+  /* background-color: #343047; */
+  box-sizing: border-box;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  /* background: linear-gradient(to right, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+  url(./bghome.jpg) no-repeat;
+  background-size: cover; */
+}
+
+
+/* background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%); */
