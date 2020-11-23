@@ -21,9 +21,15 @@
     align-items: center;
     width: 50vh;
     padding-top: 1rem;
-    color: wheat;
+    color: white;
     font-family: "Ubuntu", 'sans-serif';
     /* border: 2px solid black; */
     border-radius: 1.5rem;
     /* padding-bottom: 2rem; */
+}
+
+.aims:hover{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }

@@ -18,8 +18,8 @@ function Navbar () {
             {/* <img src={logo} alt="mylogo" style={{width:'100%'}}/> */}
           </div>
             <a href="#">Home</a>
-            <a href="#">Documents</a>
-            <a href="#">API</a>
+            <a href="#">Reviews</a>
+            <a href="#">Contact</a>
             <a href="#">About </a>
             <a href="#">Login</a>
             <button className="btn btn-primary"> Sign Up</button>
