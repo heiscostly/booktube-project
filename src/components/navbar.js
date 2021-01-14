@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import logo from "../Colorful Bookstore Logo.png"
 import lag from "../lag.png"
 import  "./navbar.css"
@@ -21,7 +22,7 @@ function Navbar () {
             <a href="#">Reviews</a>
             <a href="#">Contact</a>
             <a href="#">About </a>
-            <a href="#">Login</a>
+            <Link to="/login">Login</Link>
             <button className="btn btn-primary"> Sign Up</button>
           
         </div>

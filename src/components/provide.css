@@ -12,10 +12,13 @@
 
 
 .Customer-Image{
-    width: 70%;
+    width: 80%;
     padding-left: 9rem;
 }
 
+.heyText{
+    padding-right: 10rem;
+}
 /* 1 */
 .provideText{
     display: flex;

@@ -16,13 +16,15 @@ export class provide extends Component {
                     </div>
                         
                     <div className="provideText">
-                        <h3>We Provie Many Features You Can Use</h3>
-                        <p>You can explore the features that we provide with fun and have their own functions each feature</p>
-                        <p><CheckIcon  variant="contained"/> Powerful Online Protection</p>
-                        <p><CheckIcon fontColour="green"/> Great Books Reviews from Great Writters</p>
-                        <p><CheckIcon/> Great Connection from around the globe and more</p>
-                        <p><CheckIcon/> Be Open to asking question and getting great answers</p>
-                        {/* <CheckIcon />    */}
+                        <div className="heyText">
+                            <h3>We Provie Many Features You Can Use</h3>
+                            <p>You can explore the features that we provide with fun and have their own functions each feature</p>
+                            <p><CheckIcon  variant="contained"/> Powerful Online Protection</p>
+                            <p><CheckIcon fontColour="green"/> Great Books Reviews from Great Writters</p>
+                            <p><CheckIcon/> Great Connection from around the globe and more</p>
+                            <p><CheckIcon/> Be Open to asking question and getting great answers</p>
+                            {/* <CheckIcon />    */}
+                        </div>
                     </div>
                 </div>
             </div>
