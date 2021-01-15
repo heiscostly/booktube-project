@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import Customer from "../undraw_book_reading_kx9s.svg"
-import { Button } from '@material-ui/core';
+// import { Button } from '@material-ui/core';
 import "./provide.css"
-import CheckBoxIcon from '@material-ui/core/CheckBox';
+// import CheckBoxIcon from '@material-ui/core/CheckBox';
 import CheckIcon from '@material-ui/icons/Check';
 
 
@@ -12,7 +12,7 @@ export class provide extends Component {
             <div>
                 <div className="theProvides">
                     <div className="customerImage">
-                        <img className="Customer-Image" src={Customer}></img>
+                        <img className="Customer-Image" alt="" src={Customer}></img>
                     </div>
                         
                     <div className="provideText">
