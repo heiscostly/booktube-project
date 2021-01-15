@@ -27,7 +27,7 @@ export class login extends Component {
         return (
 <div>
 
-        <Container className="form-contents">
+        <Container className="form-contents d-flex w-100" style={{minHeight: "100vh"}}>
  
         
         <Row className=" pb-5 justify-content-md-center">
