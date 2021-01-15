@@ -4,6 +4,7 @@ import PermIdentityIcon from '@material-ui/icons/PermIdentity';
 import LockIcon from '@material-ui/icons/Lock';
 import "./login.css"
 import PassUser from '../undraw_authentication_fsn5.svg'
+import Navbar from "./navbar"
 import { Button,  Container, Row, Col, Form } from "react-bootstrap"
 
 const Checkbox = props => (
@@ -26,6 +27,7 @@ export class login extends Component {
     render() {
         return (
 <div>
+    <Navbar />
 
         <Container className="form-contents d-flex w-100" style={{minHeight: "100vh"}}>
  
